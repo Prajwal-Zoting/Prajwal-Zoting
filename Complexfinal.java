@@ -6,8 +6,8 @@ class complex_num {
     public
     complex_num() // Constructor
     {
-        real = 1;
-        imaginary = 1;
+        real = 0;
+        imaginary = 0;
     }
     void display() 
     {
